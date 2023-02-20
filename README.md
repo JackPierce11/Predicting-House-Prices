@@ -6,7 +6,7 @@ We can see that our blended predictions had an **r2 score of 0.969781 on the tra
 
 Below we can see a summary of the performance of all the models:
 
-![image.png](attachment:fa20cc19-a9c2-4c31-96d3-792fc2a93878.png)
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/73466733/220097769-c91ded10-6096-4cae-b2e4-26fa08045482.png">
 
 Looking the feature importance for the Lasso and Ridge models we can conclude that the characteristics most important to the house price are related to **the size of the house, the size of the land and the quality of the house**.
 
